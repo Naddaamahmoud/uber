@@ -1,0 +1,6 @@
+﻿  graph.cpp
+C:\Users\Not a gaming laptop\source\repos\Uber\graph.cpp(410): warning C4305: '=': truncation from '__int64' to 'float'
+C:\Users\Not a gaming laptop\source\repos\Uber\graph.cpp(471): warning C4018: '>': signed/unsigned mismatch
+  uber.cpp
+  Generating Code...
+  Uber.vcxproj -> C:\Users\Not a gaming laptop\source\repos\Uber\Debug\Uber.exe
